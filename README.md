@@ -1,4 +1,5 @@
 > Keep It Simple, Stupid
+> :)
 
 # 自我介绍
 我是shiftz，在校学生

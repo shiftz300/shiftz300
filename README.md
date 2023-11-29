@@ -1,5 +1,4 @@
 > Keep It Simple, Stupid
->
 > :)
 
 # 自我介绍
